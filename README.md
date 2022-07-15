@@ -7,9 +7,6 @@
  
 #
 
-I Am Study ing
-
- `JAVA` , `SQL` `JAVASCRIPT`
 
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SUJINJEONG012&show_icons=true&theme=tokyonight)
