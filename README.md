@@ -7,7 +7,7 @@
  
 #
 
-# I Am Study ing
+I Am Study ing
 
  `JAVA` , `SQL` `JAVASCRIPT`
 
