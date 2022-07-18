@@ -1,14 +1,10 @@
 
- - 👋 Hi, I’m @SUJINJEONG012 
- - 👀 I’m interested in 
- - 🌱 I’m currently `java` `javascript` `sql` learning ...
- - 💞️ I’m looking to collaborate on ...
+ - 👋 Hi, I’m @SUJINJEONG, Nickname is Angela.
+ - 👀 I’m interested in Travel
+ - 🌱 I’m currently `java` `javascript` `sql`  and other learning ...
  - 📫 peekaboo32@naver.com
  
 #
-
-
-
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SUJINJEONG012&show_icons=true&theme=tokyonight)
 
