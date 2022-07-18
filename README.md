@@ -1,5 +1,5 @@
 
- - 👋 Hi, I’m @SUJINJEONG, Nickname is Angela.
+ - 👋 Hi, I’m SUJIN JEONG, Nickname is Angela.
  - 👀 I’m interested in Travel
  - 🌱 I’m currently `java` `javascript` `sql`  and other learning ...
  - 📫 peekaboo32@naver.com
